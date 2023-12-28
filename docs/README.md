@@ -7,10 +7,12 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконала:** 
 
 
-*студент 2-го курсу, групи ІМ-23*<span padding-right:5em></span> **Капацин Олексій, @jasiya_k**
+
+*студентка 2-го курсу, групи ІМ-23*<span padding-right:5em></span> **Гуменюк Катерина, @ekaterynah**
+
 
 
 
